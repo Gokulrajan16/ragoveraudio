@@ -1,0 +1,6 @@
+PINECONE_API_KEY="your api key"
+PINECONE_REGION="" 
+PINECONE_INDEX_NAME=""    
+
+ASSEMBLYAI_API_KEY="your api key"
+SAMBANOVA_API_KEY="your api key"
